@@ -21,3 +21,8 @@ Name: model_2
 	Learning rate: 0.0005
 	{'loss': 0.5643861293792725, 'accuracy': 0.7174999713897705}
 
+Name: model_2
+	Optimizer: Adam
+	Learning rate: 0.0002
+	{'loss': 0.5511153340339661, 'accuracy': 0.71875}
+
